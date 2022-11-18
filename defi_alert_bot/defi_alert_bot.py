@@ -24,7 +24,7 @@
 import time
 import requests
 
-LAB_WEBHOOK_URL = 'https://discord.com/api/webhooks/1042616044977672332/YHSH4Xn-UTeNnScKiUgqqa1XB7jYPhg6UON59GYlxEj7-7l4hZN-kPC60SediXviBwQU'
+LAB_WEBHOOK_URL = ''
 
 
 class Discord_webhook :
